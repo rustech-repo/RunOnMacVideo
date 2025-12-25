@@ -7,8 +7,8 @@
 ## MacOS(MacBook и IMac)
 Скачайте tools-mac.tar.gz, распакуйте и запустите скрипт-установщик программ
 
-# Установка Wine
+## Установка Wine
 Запустите InstallWine.sh
 
-# Whisky
+## Whisky
 Запустите Whisky
